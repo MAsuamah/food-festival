@@ -5,7 +5,7 @@ An application built for an upcoming three day food-festival.
 
 ## Added Functionality 
 * App deployment.
-* Using diagnositic tools such as lighthouse and webpack bundle analyzer for perfomance improvement.
+* Using diagnostic tools such as lighthouse and webpack bundle analyzer for performance improvement.
 * Improving load-time.
 * Adding offline-functionality.
 * Converting the app into a progressive web application which can be downloaded and installed on mobile and desktop devices.
