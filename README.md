@@ -12,7 +12,7 @@ An application built for an upcoming three day food-festival.
 
 
 ## Download onto Your Desktop
-To download the site as a desktop app click the install icon in the address bar
+To download the site as a desktop app, click the install icon in the address bar
 
 ![Untitled design](https://user-images.githubusercontent.com/77217156/122687077-8b035e80-d1e2-11eb-93aa-e7979c7f32bf.png)
 
